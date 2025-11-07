@@ -1,0 +1,6 @@
+{
+  "best_val_acc": 0.9936000061035156,
+  "train_time_sec": 415.46923208236694,
+  "params": 28229,
+  "episodes_seen": 4000
+}

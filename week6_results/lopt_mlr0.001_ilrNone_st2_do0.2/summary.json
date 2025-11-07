@@ -1,0 +1,8 @@
+{
+  "approach": "lopt",
+  "best_val_acc": 0.32826666712760927,
+  "episodes_seen": 2000,
+  "train_time_sec": 338.42139077186584,
+  "overfit_gap": -0.035100001133978376,
+  "overfit_flag": false
+}

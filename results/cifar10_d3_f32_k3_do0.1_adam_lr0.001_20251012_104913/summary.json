@@ -1,0 +1,7 @@
+{
+  "best_val_acc": 0.709,
+  "test_loss": 0.8451400299072266,
+  "test_acc": 0.7018,
+  "train_seconds": 723.1650619506836,
+  "params": 94538
+}

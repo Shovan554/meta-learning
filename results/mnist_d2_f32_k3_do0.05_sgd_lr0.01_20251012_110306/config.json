@@ -1,0 +1,23 @@
+{
+  "dataset": "mnist",
+  "depth": 2,
+  "base_filters": 32,
+  "kernel_size": 3,
+  "dropout": 0.05,
+  "use_bn": true,
+  "optimizer": "sgd",
+  "lr": 0.01,
+  "weight_decay": 0.0001,
+  "momentum": 0.9,
+  "batch_size": 128,
+  "epochs": 10,
+  "val_ratio": 0.1,
+  "num_workers": 2,
+  "seed": 42,
+  "data_dir": "./data",
+  "out_dir": "./results",
+  "in_channels": 1,
+  "num_classes": 10,
+  "device": "cpu",
+  "run_name": "mnist_d2_f32_k3_do0.05_sgd_lr0.01_20251012_110306"
+}

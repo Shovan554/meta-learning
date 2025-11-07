@@ -1,0 +1,8 @@
+{
+  "approach": "maml",
+  "best_val_acc": 0.2088000023365021,
+  "episodes_seen": 2000,
+  "train_time_sec": 194.9671859741211,
+  "overfit_gap": 0.0058333318959921665,
+  "overfit_flag": false
+}

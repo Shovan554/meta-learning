@@ -1,0 +1,21 @@
+{
+  "dataset": "cifar10",
+  "n_way": 5,
+  "k_shot": 1,
+  "q_query": 15,
+  "inner_steps": 1,
+  "inner_lr": 0.4,
+  "second_order": false,
+  "meta_lr": 0.001,
+  "episodes_per_epoch": 200,
+  "epochs": 20,
+  "batch_size_episodes": 4,
+  "base_filters": 32,
+  "depth": 4,
+  "kernel_size": 3,
+  "dropout": 0.0,
+  "use_bn": true,
+  "seed": 42,
+  "device": "cpu",
+  "run_name": "cifar10_5way_1shot_q15_inner1-lr0.4_1st_mf32_d4"
+}
