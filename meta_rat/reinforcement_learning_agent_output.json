@@ -1,0 +1,4509 @@
+{
+    "metadata": {
+        "total_episodes": 500,
+        "stop_condition": "2 consecutive efficient successes (\u226425 steps)",
+        "best_reward": 9.23
+    },
+    "results": [
+        {
+            "episode": 1,
+            "steps": 400,
+            "pushes": 59,
+            "climbs": 0,
+            "reward": -130.95,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 2,
+            "steps": 400,
+            "pushes": 67,
+            "climbs": 4,
+            "reward": -135.45,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 3,
+            "steps": 85,
+            "pushes": 16,
+            "climbs": 0,
+            "reward": -38.46,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 4,
+            "steps": 149,
+            "pushes": 28,
+            "climbs": 0,
+            "reward": -60.56,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 5,
+            "steps": 95,
+            "pushes": 25,
+            "climbs": 0,
+            "reward": -38.66,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 6,
+            "steps": 333,
+            "pushes": 70,
+            "climbs": 5,
+            "reward": -113.69,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 7,
+            "steps": 180,
+            "pushes": 32,
+            "climbs": 0,
+            "reward": -71.66,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 8,
+            "steps": 139,
+            "pushes": 23,
+            "climbs": 3,
+            "reward": -33.62,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 9,
+            "steps": 133,
+            "pushes": 28,
+            "climbs": 0,
+            "reward": -51.56,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 10,
+            "steps": 159,
+            "pushes": 41,
+            "climbs": 1,
+            "reward": -55.69,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 11,
+            "steps": 115,
+            "pushes": 22,
+            "climbs": 0,
+            "reward": -47.96,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 12,
+            "steps": 400,
+            "pushes": 72,
+            "climbs": 0,
+            "reward": -129.18,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 13,
+            "steps": 104,
+            "pushes": 16,
+            "climbs": 0,
+            "reward": -24.58,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 14,
+            "steps": 400,
+            "pushes": 74,
+            "climbs": 2,
+            "reward": -128.15,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 15,
+            "steps": 93,
+            "pushes": 15,
+            "climbs": 0,
+            "reward": -40.29,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 16,
+            "steps": 400,
+            "pushes": 69,
+            "climbs": 0,
+            "reward": -131.71,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 17,
+            "steps": 90,
+            "pushes": 16,
+            "climbs": 0,
+            "reward": -39.59,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 18,
+            "steps": 108,
+            "pushes": 21,
+            "climbs": 0,
+            "reward": -24.48,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 19,
+            "steps": 259,
+            "pushes": 45,
+            "climbs": 1,
+            "reward": -75.22,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 20,
+            "steps": 100,
+            "pushes": 20,
+            "climbs": 0,
+            "reward": -21.98,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 21,
+            "steps": 139,
+            "pushes": 36,
+            "climbs": 0,
+            "reward": -31.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 22,
+            "steps": 108,
+            "pushes": 24,
+            "climbs": 5,
+            "reward": -17.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 23,
+            "steps": 65,
+            "pushes": 9,
+            "climbs": 0,
+            "reward": -9.98,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 24,
+            "steps": 221,
+            "pushes": 47,
+            "climbs": 1,
+            "reward": -54.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 25,
+            "steps": 101,
+            "pushes": 13,
+            "climbs": 0,
+            "reward": -22.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 26,
+            "steps": 125,
+            "pushes": 32,
+            "climbs": 1,
+            "reward": -30.38,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 27,
+            "steps": 88,
+            "pushes": 13,
+            "climbs": 0,
+            "reward": -38.09,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 28,
+            "steps": 333,
+            "pushes": 64,
+            "climbs": 1,
+            "reward": -115.44,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 29,
+            "steps": 52,
+            "pushes": 12,
+            "climbs": 0,
+            "reward": -5.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 30,
+            "steps": 100,
+            "pushes": 23,
+            "climbs": 0,
+            "reward": -21.48,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 31,
+            "steps": 190,
+            "pushes": 33,
+            "climbs": 1,
+            "reward": -46.88,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 32,
+            "steps": 111,
+            "pushes": 21,
+            "climbs": 0,
+            "reward": -24.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 33,
+            "steps": 136,
+            "pushes": 36,
+            "climbs": 1,
+            "reward": -26.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 34,
+            "steps": 134,
+            "pushes": 31,
+            "climbs": 1,
+            "reward": -28.52,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 35,
+            "steps": 121,
+            "pushes": 26,
+            "climbs": 0,
+            "reward": -48.49,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 36,
+            "steps": 103,
+            "pushes": 24,
+            "climbs": 1,
+            "reward": -17.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 37,
+            "steps": 60,
+            "pushes": 9,
+            "climbs": 0,
+            "reward": -7.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 38,
+            "steps": 114,
+            "pushes": 26,
+            "climbs": 1,
+            "reward": -24.72,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 39,
+            "steps": 47,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -2.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 40,
+            "steps": 55,
+            "pushes": 11,
+            "climbs": 0,
+            "reward": -6.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 41,
+            "steps": 69,
+            "pushes": 13,
+            "climbs": 1,
+            "reward": -9.98,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 42,
+            "steps": 95,
+            "pushes": 22,
+            "climbs": 1,
+            "reward": -18.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 43,
+            "steps": 63,
+            "pushes": 12,
+            "climbs": 0,
+            "reward": -29.49,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 44,
+            "steps": 52,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -4.92,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 45,
+            "steps": 77,
+            "pushes": 13,
+            "climbs": 0,
+            "reward": -12.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 46,
+            "steps": 79,
+            "pushes": 16,
+            "climbs": 0,
+            "reward": -10.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 47,
+            "steps": 217,
+            "pushes": 41,
+            "climbs": 1,
+            "reward": -53.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 48,
+            "steps": 45,
+            "pushes": 8,
+            "climbs": 0,
+            "reward": -2.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 49,
+            "steps": 66,
+            "pushes": 12,
+            "climbs": 0,
+            "reward": -10.28,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 50,
+            "steps": 48,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -3.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 51,
+            "steps": 61,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -7.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 52,
+            "steps": 51,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -4.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 53,
+            "steps": 41,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -20.79,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 54,
+            "steps": 56,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -5.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 55,
+            "steps": 45,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -1.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 56,
+            "steps": 59,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -5.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 57,
+            "steps": 46,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -20.39,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 58,
+            "steps": 63,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -9.38,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 59,
+            "steps": 51,
+            "pushes": 10,
+            "climbs": 0,
+            "reward": -2.18,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 60,
+            "steps": 58,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -4.18,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 61,
+            "steps": 64,
+            "pushes": 11,
+            "climbs": 1,
+            "reward": -28.29,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 62,
+            "steps": 130,
+            "pushes": 30,
+            "climbs": 1,
+            "reward": -47.19,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 63,
+            "steps": 168,
+            "pushes": 27,
+            "climbs": 1,
+            "reward": -63.09,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 64,
+            "steps": 75,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -29.84,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 65,
+            "steps": 106,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -20.98,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 66,
+            "steps": 51,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -3.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 67,
+            "steps": 39,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": -20.19,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 68,
+            "steps": 59,
+            "pushes": 13,
+            "climbs": 0,
+            "reward": -8.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 69,
+            "steps": 46,
+            "pushes": 3,
+            "climbs": 2,
+            "reward": -1.32,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 70,
+            "steps": 77,
+            "pushes": 11,
+            "climbs": 1,
+            "reward": -11.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 71,
+            "steps": 47,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -22.29,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 72,
+            "steps": 61,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -4.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 73,
+            "steps": 249,
+            "pushes": 54,
+            "climbs": 0,
+            "reward": -89.91,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 74,
+            "steps": 39,
+            "pushes": 4,
+            "climbs": 0,
+            "reward": -0.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 75,
+            "steps": 50,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -3.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 76,
+            "steps": 140,
+            "pushes": 30,
+            "climbs": 2,
+            "reward": -27.52,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 77,
+            "steps": 91,
+            "pushes": 20,
+            "climbs": 1,
+            "reward": -17.22,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 78,
+            "steps": 56,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -2.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 79,
+            "steps": 42,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -21.29,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 80,
+            "steps": 70,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -7.22,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 81,
+            "steps": 42,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -18.14,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 82,
+            "steps": 83,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -14.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 83,
+            "steps": 43,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -0.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 84,
+            "steps": 44,
+            "pushes": 11,
+            "climbs": 1,
+            "reward": 1.68,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 85,
+            "steps": 63,
+            "pushes": 11,
+            "climbs": 2,
+            "reward": -6.62,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 86,
+            "steps": 66,
+            "pushes": 21,
+            "climbs": 1,
+            "reward": -5.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 87,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 88,
+            "steps": 57,
+            "pushes": 19,
+            "climbs": 1,
+            "reward": -2.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 89,
+            "steps": 109,
+            "pushes": 29,
+            "climbs": 1,
+            "reward": -22.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 90,
+            "steps": 48,
+            "pushes": 3,
+            "climbs": 0,
+            "reward": -25.16,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 91,
+            "steps": 114,
+            "pushes": 13,
+            "climbs": 1,
+            "reward": -23.92,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 92,
+            "steps": 120,
+            "pushes": 22,
+            "climbs": 1,
+            "reward": -24.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 93,
+            "steps": 61,
+            "pushes": 18,
+            "climbs": 1,
+            "reward": -24.49,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 94,
+            "steps": 209,
+            "pushes": 37,
+            "climbs": 1,
+            "reward": -55.92,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 95,
+            "steps": 43,
+            "pushes": 6,
+            "climbs": 0,
+            "reward": -22.69,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 96,
+            "steps": 103,
+            "pushes": 29,
+            "climbs": 1,
+            "reward": -16.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 97,
+            "steps": 92,
+            "pushes": 22,
+            "climbs": 1,
+            "reward": -15.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 98,
+            "steps": 68,
+            "pushes": 13,
+            "climbs": 2,
+            "reward": -8.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 99,
+            "steps": 142,
+            "pushes": 27,
+            "climbs": 2,
+            "reward": -30.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 100,
+            "steps": 163,
+            "pushes": 46,
+            "climbs": 1,
+            "reward": -36.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 101,
+            "steps": 58,
+            "pushes": 11,
+            "climbs": 1,
+            "reward": -4.72,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 102,
+            "steps": 44,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -2.12,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 103,
+            "steps": 56,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -5.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 104,
+            "steps": 53,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -4.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 105,
+            "steps": 72,
+            "pushes": 14,
+            "climbs": 1,
+            "reward": -11.72,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 106,
+            "steps": 64,
+            "pushes": 11,
+            "climbs": 1,
+            "reward": -7.32,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 107,
+            "steps": 44,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -1.72,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 108,
+            "steps": 67,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -8.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 109,
+            "steps": 46,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -1.92,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 110,
+            "steps": 52,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -3.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 111,
+            "steps": 53,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -4.22,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 112,
+            "steps": 70,
+            "pushes": 14,
+            "climbs": 1,
+            "reward": -10.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 113,
+            "steps": 55,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -5.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 114,
+            "steps": 61,
+            "pushes": 13,
+            "climbs": 1,
+            "reward": -5.78,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 115,
+            "steps": 91,
+            "pushes": 18,
+            "climbs": 1,
+            "reward": -19.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 116,
+            "steps": 161,
+            "pushes": 37,
+            "climbs": 2,
+            "reward": -37.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 117,
+            "steps": 65,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -8.28,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 118,
+            "steps": 45,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -1.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 119,
+            "steps": 95,
+            "pushes": 18,
+            "climbs": 1,
+            "reward": -16.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 120,
+            "steps": 36,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 121,
+            "steps": 54,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -4.38,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 122,
+            "steps": 40,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 0.18,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 123,
+            "steps": 77,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -12.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 124,
+            "steps": 33,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 125,
+            "steps": 45,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -1.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 126,
+            "steps": 36,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 1.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 127,
+            "steps": 41,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -1.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 128,
+            "steps": 34,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 129,
+            "steps": 31,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 130,
+            "steps": 45,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -21.99,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 131,
+            "steps": 37,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.02,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 132,
+            "steps": 48,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -2.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 133,
+            "steps": 41,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 0.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 134,
+            "steps": 46,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": -2.32,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 135,
+            "steps": 32,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -17.49,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 136,
+            "steps": 47,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -1.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 137,
+            "steps": 52,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -2.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 138,
+            "steps": 59,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -5.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 139,
+            "steps": 43,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 0.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 140,
+            "steps": 34,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 141,
+            "steps": 113,
+            "pushes": 28,
+            "climbs": 1,
+            "reward": -22.68,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 142,
+            "steps": 57,
+            "pushes": 14,
+            "climbs": 1,
+            "reward": -2.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 143,
+            "steps": 60,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -23.19,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 144,
+            "steps": 65,
+            "pushes": 17,
+            "climbs": 1,
+            "reward": -4.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 145,
+            "steps": 52,
+            "pushes": 17,
+            "climbs": 1,
+            "reward": -0.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 146,
+            "steps": 38,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 0.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 147,
+            "steps": 61,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -4.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 148,
+            "steps": 35,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 149,
+            "steps": 65,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -5.12,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 150,
+            "steps": 67,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -3.62,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 151,
+            "steps": 61,
+            "pushes": 18,
+            "climbs": 1,
+            "reward": -2.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 152,
+            "steps": 30,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 6.88,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 153,
+            "steps": 26,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 8.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 154,
+            "steps": 35,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 1.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 155,
+            "steps": 81,
+            "pushes": 20,
+            "climbs": 1,
+            "reward": -10.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 156,
+            "steps": 28,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 7.98,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 157,
+            "steps": 39,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": 4.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 158,
+            "steps": 46,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 159,
+            "steps": 26,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 8.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 160,
+            "steps": 42,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 0.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 161,
+            "steps": 44,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 0.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 162,
+            "steps": 32,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 6.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 163,
+            "steps": 48,
+            "pushes": 9,
+            "climbs": 2,
+            "reward": -1.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 164,
+            "steps": 58,
+            "pushes": 9,
+            "climbs": 0,
+            "reward": -6.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 165,
+            "steps": 30,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 7.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 166,
+            "steps": 41,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -0.18,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 167,
+            "steps": 64,
+            "pushes": 8,
+            "climbs": 0,
+            "reward": -8.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 168,
+            "steps": 147,
+            "pushes": 22,
+            "climbs": 1,
+            "reward": -31.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 169,
+            "steps": 37,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 1.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 170,
+            "steps": 35,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 171,
+            "steps": 120,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -26.88,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 172,
+            "steps": 48,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -2.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 173,
+            "steps": 55,
+            "pushes": 8,
+            "climbs": 0,
+            "reward": -2.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 174,
+            "steps": 37,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 0.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 175,
+            "steps": 40,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -0.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 176,
+            "steps": 43,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": -1.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 177,
+            "steps": 36,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 0.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 178,
+            "steps": 30,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 179,
+            "steps": 46,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -1.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 180,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.02,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 181,
+            "steps": 38,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 0.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 182,
+            "steps": 40,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -0.08,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 183,
+            "steps": 39,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 0.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 184,
+            "steps": 58,
+            "pushes": 14,
+            "climbs": 0,
+            "reward": -3.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 185,
+            "steps": 34,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.12,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 186,
+            "steps": 40,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 0.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 187,
+            "steps": 32,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -17.34,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 188,
+            "steps": 42,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -0.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 189,
+            "steps": 35,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -18.59,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 190,
+            "steps": 45,
+            "pushes": 6,
+            "climbs": 0,
+            "reward": -2.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 191,
+            "steps": 50,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -3.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 192,
+            "steps": 35,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -18.99,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 193,
+            "steps": 36,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 194,
+            "steps": 31,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 195,
+            "steps": 70,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -10.58,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 196,
+            "steps": 121,
+            "pushes": 18,
+            "climbs": 1,
+            "reward": -24.72,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 197,
+            "steps": 89,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -15.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 198,
+            "steps": 191,
+            "pushes": 24,
+            "climbs": 1,
+            "reward": -49.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 199,
+            "steps": 56,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -6.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 200,
+            "steps": 228,
+            "pushes": 37,
+            "climbs": 1,
+            "reward": -83.44,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 201,
+            "steps": 74,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -10.88,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 202,
+            "steps": 59,
+            "pushes": 7,
+            "climbs": 2,
+            "reward": -5.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 203,
+            "steps": 73,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -11.82,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 204,
+            "steps": 69,
+            "pushes": 5,
+            "climbs": 0,
+            "reward": -10.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 205,
+            "steps": 82,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -13.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 206,
+            "steps": 78,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -13.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 207,
+            "steps": 53,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -5.12,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 208,
+            "steps": 42,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -0.32,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 209,
+            "steps": 42,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -0.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 210,
+            "steps": 51,
+            "pushes": 11,
+            "climbs": 1,
+            "reward": -5.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 211,
+            "steps": 45,
+            "pushes": 5,
+            "climbs": 0,
+            "reward": -2.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 212,
+            "steps": 65,
+            "pushes": 13,
+            "climbs": 2,
+            "reward": -8.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 213,
+            "steps": 45,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -2.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 214,
+            "steps": 47,
+            "pushes": 7,
+            "climbs": 2,
+            "reward": -21.44,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 215,
+            "steps": 42,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -1.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 216,
+            "steps": 61,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -7.02,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 217,
+            "steps": 37,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 0.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 218,
+            "steps": 37,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 0.82,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 219,
+            "steps": 42,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -0.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 220,
+            "steps": 53,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -4.22,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 221,
+            "steps": 44,
+            "pushes": 5,
+            "climbs": 0,
+            "reward": -2.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 222,
+            "steps": 94,
+            "pushes": 30,
+            "climbs": 1,
+            "reward": -14.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 223,
+            "steps": 47,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": -2.82,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 224,
+            "steps": 44,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": 3.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 225,
+            "steps": 29,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 7.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 226,
+            "steps": 33,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": 5.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 227,
+            "steps": 90,
+            "pushes": 32,
+            "climbs": 1,
+            "reward": -11.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 228,
+            "steps": 84,
+            "pushes": 25,
+            "climbs": 1,
+            "reward": -10.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 229,
+            "steps": 35,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": 4.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 230,
+            "steps": 52,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -0.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 231,
+            "steps": 31,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 7.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 232,
+            "steps": 35,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 5.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 233,
+            "steps": 27,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 6.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 234,
+            "steps": 43,
+            "pushes": 20,
+            "climbs": 1,
+            "reward": 3.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 235,
+            "steps": 31,
+            "pushes": 13,
+            "climbs": 1,
+            "reward": 7.22,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 236,
+            "steps": 36,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 5.58,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 237,
+            "steps": 149,
+            "pushes": 26,
+            "climbs": 2,
+            "reward": -30.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 238,
+            "steps": 33,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 4.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 239,
+            "steps": 69,
+            "pushes": 19,
+            "climbs": 1,
+            "reward": -6.98,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 240,
+            "steps": 136,
+            "pushes": 42,
+            "climbs": 1,
+            "reward": -28.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 241,
+            "steps": 50,
+            "pushes": 9,
+            "climbs": 2,
+            "reward": -2.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 242,
+            "steps": 44,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 243,
+            "steps": 33,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -13.99,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 244,
+            "steps": 61,
+            "pushes": 23,
+            "climbs": 1,
+            "reward": -1.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 245,
+            "steps": 30,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 6.02,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 246,
+            "steps": 56,
+            "pushes": 21,
+            "climbs": 1,
+            "reward": -0.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 247,
+            "steps": 118,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -25.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 248,
+            "steps": 59,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -5.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 249,
+            "steps": 137,
+            "pushes": 32,
+            "climbs": 1,
+            "reward": -27.18,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 250,
+            "steps": 53,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -2.98,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 251,
+            "steps": 68,
+            "pushes": 22,
+            "climbs": 1,
+            "reward": -9.08,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 252,
+            "steps": 126,
+            "pushes": 26,
+            "climbs": 1,
+            "reward": -23.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 253,
+            "steps": 155,
+            "pushes": 30,
+            "climbs": 1,
+            "reward": -35.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 254,
+            "steps": 80,
+            "pushes": 18,
+            "climbs": 1,
+            "reward": -8.68,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 255,
+            "steps": 134,
+            "pushes": 32,
+            "climbs": 1,
+            "reward": -26.62,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 256,
+            "steps": 31,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 7.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 257,
+            "steps": 113,
+            "pushes": 25,
+            "climbs": 1,
+            "reward": -39.19,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 258,
+            "steps": 72,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -5.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 259,
+            "steps": 66,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -4.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 260,
+            "steps": 65,
+            "pushes": 18,
+            "climbs": 1,
+            "reward": -3.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 261,
+            "steps": 46,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": 2.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 262,
+            "steps": 39,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 4.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 263,
+            "steps": 100,
+            "pushes": 11,
+            "climbs": 1,
+            "reward": -19.12,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 264,
+            "steps": 26,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 8.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 265,
+            "steps": 167,
+            "pushes": 35,
+            "climbs": 2,
+            "reward": -36.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 266,
+            "steps": 54,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -4.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 267,
+            "steps": 38,
+            "pushes": 13,
+            "climbs": 1,
+            "reward": 3.52,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 268,
+            "steps": 55,
+            "pushes": 17,
+            "climbs": 1,
+            "reward": -2.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 269,
+            "steps": 34,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": 6.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 270,
+            "steps": 34,
+            "pushes": 13,
+            "climbs": 1,
+            "reward": 5.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 271,
+            "steps": 46,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": 0.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 272,
+            "steps": 57,
+            "pushes": 14,
+            "climbs": 1,
+            "reward": -3.98,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 273,
+            "steps": 119,
+            "pushes": 23,
+            "climbs": 1,
+            "reward": -20.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 274,
+            "steps": 57,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -1.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 275,
+            "steps": 88,
+            "pushes": 19,
+            "climbs": 1,
+            "reward": -11.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 276,
+            "steps": 107,
+            "pushes": 13,
+            "climbs": 1,
+            "reward": -22.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 277,
+            "steps": 76,
+            "pushes": 17,
+            "climbs": 1,
+            "reward": -7.52,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 278,
+            "steps": 51,
+            "pushes": 14,
+            "climbs": 1,
+            "reward": 0.72,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 279,
+            "steps": 73,
+            "pushes": 16,
+            "climbs": 1,
+            "reward": -9.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 280,
+            "steps": 69,
+            "pushes": 7,
+            "climbs": 0,
+            "reward": -10.68,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 281,
+            "steps": 104,
+            "pushes": 12,
+            "climbs": 1,
+            "reward": -21.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 282,
+            "steps": 56,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -5.88,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 283,
+            "steps": 39,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 0.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 284,
+            "steps": 46,
+            "pushes": 4,
+            "climbs": 0,
+            "reward": -2.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 285,
+            "steps": 40,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 0.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 286,
+            "steps": 35,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 287,
+            "steps": 24,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 9.23,
+            "success": true,
+            "efficient": true
+        },
+        {
+            "episode": 288,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 289,
+            "steps": 35,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -18.19,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 290,
+            "steps": 40,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -0.28,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 291,
+            "steps": 36,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 292,
+            "steps": 38,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 293,
+            "steps": 36,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 294,
+            "steps": 30,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 295,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 296,
+            "steps": 31,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 297,
+            "steps": 36,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 298,
+            "steps": 35,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 299,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 300,
+            "steps": 30,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 301,
+            "steps": 41,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 0.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 302,
+            "steps": 45,
+            "pushes": 6,
+            "climbs": 2,
+            "reward": -20.99,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 303,
+            "steps": 34,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 304,
+            "steps": 40,
+            "pushes": 5,
+            "climbs": 0,
+            "reward": -21.09,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 305,
+            "steps": 38,
+            "pushes": 3,
+            "climbs": 0,
+            "reward": -0.28,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 306,
+            "steps": 45,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": -1.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 307,
+            "steps": 38,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 0.92,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 308,
+            "steps": 38,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -19.29,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 309,
+            "steps": 31,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 310,
+            "steps": 31,
+            "pushes": 4,
+            "climbs": 0,
+            "reward": -17.99,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 311,
+            "steps": 34,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 312,
+            "steps": 38,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 0.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 313,
+            "steps": 41,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": -0.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 314,
+            "steps": 32,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 315,
+            "steps": 41,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": -0.58,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 316,
+            "steps": 39,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 0.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 317,
+            "steps": 35,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 318,
+            "steps": 33,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 319,
+            "steps": 32,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 320,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 321,
+            "steps": 34,
+            "pushes": 6,
+            "climbs": 2,
+            "reward": 3.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 322,
+            "steps": 36,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 323,
+            "steps": 32,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 324,
+            "steps": 38,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 0.92,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 325,
+            "steps": 44,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -1.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 326,
+            "steps": 43,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": -1.37,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 327,
+            "steps": 35,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 328,
+            "steps": 38,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 0.88,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 329,
+            "steps": 34,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.92,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 330,
+            "steps": 42,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -0.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 331,
+            "steps": 34,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 332,
+            "steps": 34,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 333,
+            "steps": 34,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 334,
+            "steps": 36,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -19.34,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 335,
+            "steps": 37,
+            "pushes": 2,
+            "climbs": 0,
+            "reward": 0.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 336,
+            "steps": 37,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 0.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 337,
+            "steps": 39,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 0.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 338,
+            "steps": 45,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -1.02,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 339,
+            "steps": 36,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 0.92,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 340,
+            "steps": 33,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.58,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 341,
+            "steps": 37,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 1.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 342,
+            "steps": 32,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 343,
+            "steps": 29,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -16.39,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 344,
+            "steps": 33,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 345,
+            "steps": 32,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 346,
+            "steps": 35,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.58,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 347,
+            "steps": 47,
+            "pushes": 4,
+            "climbs": 2,
+            "reward": -1.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 348,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -17.84,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 349,
+            "steps": 32,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.52,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 350,
+            "steps": 34,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 351,
+            "steps": 34,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 352,
+            "steps": 36,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": -18.69,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 353,
+            "steps": 43,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -0.57,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 354,
+            "steps": 37,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 355,
+            "steps": 31,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 356,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 357,
+            "steps": 33,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 358,
+            "steps": 36,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 359,
+            "steps": 32,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 360,
+            "steps": 30,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 361,
+            "steps": 31,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 362,
+            "steps": 41,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": -0.77,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 363,
+            "steps": 40,
+            "pushes": 2,
+            "climbs": 0,
+            "reward": -0.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 364,
+            "steps": 38,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 365,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 366,
+            "steps": 38,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 0.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 367,
+            "steps": 33,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 368,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 369,
+            "steps": 35,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 370,
+            "steps": 31,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 371,
+            "steps": 35,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 1.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 372,
+            "steps": 37,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 1.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 373,
+            "steps": 36,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 374,
+            "steps": 36,
+            "pushes": 2,
+            "climbs": 0,
+            "reward": 0.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 375,
+            "steps": 34,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 376,
+            "steps": 31,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 377,
+            "steps": 34,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 378,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 379,
+            "steps": 34,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 380,
+            "steps": 39,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 0.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 381,
+            "steps": 45,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": -1.17,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 382,
+            "steps": 31,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 383,
+            "steps": 33,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 384,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 385,
+            "steps": 33,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 386,
+            "steps": 36,
+            "pushes": 1,
+            "climbs": 0,
+            "reward": 0.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 387,
+            "steps": 42,
+            "pushes": 0,
+            "climbs": 0,
+            "reward": -1.87,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 388,
+            "steps": 33,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 389,
+            "steps": 39,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 0.02,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 390,
+            "steps": 30,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": -16.89,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 391,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 392,
+            "steps": 30,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": -16.89,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 393,
+            "steps": 30,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 394,
+            "steps": 30,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -16.89,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 395,
+            "steps": 38,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 0.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 396,
+            "steps": 32,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 397,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 398,
+            "steps": 35,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.58,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 399,
+            "steps": 32,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 400,
+            "steps": 36,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 401,
+            "steps": 30,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 402,
+            "steps": 38,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 0.52,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 403,
+            "steps": 33,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": -17.59,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 404,
+            "steps": 32,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 405,
+            "steps": 37,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 1.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 406,
+            "steps": 36,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 1.73,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 407,
+            "steps": 35,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 408,
+            "steps": 34,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 409,
+            "steps": 35,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 410,
+            "steps": 33,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 411,
+            "steps": 30,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 412,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 413,
+            "steps": 38,
+            "pushes": 5,
+            "climbs": 2,
+            "reward": -18.54,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 414,
+            "steps": 34,
+            "pushes": 1,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 415,
+            "steps": 40,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": -0.28,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 416,
+            "steps": 30,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 417,
+            "steps": 34,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.12,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 418,
+            "steps": 34,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 419,
+            "steps": 31,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 420,
+            "steps": 30,
+            "pushes": 2,
+            "climbs": 1,
+            "reward": 3.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 421,
+            "steps": 31,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 422,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 423,
+            "steps": 32,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 424,
+            "steps": 40,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 0.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 425,
+            "steps": 35,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 426,
+            "steps": 33,
+            "pushes": 3,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 427,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 428,
+            "steps": 36,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 429,
+            "steps": 32,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 430,
+            "steps": 39,
+            "pushes": 6,
+            "climbs": 2,
+            "reward": 1.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 431,
+            "steps": 37,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 1.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 432,
+            "steps": 36,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 433,
+            "steps": 33,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 2.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 434,
+            "steps": 34,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 435,
+            "steps": 32,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 436,
+            "steps": 44,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": -0.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 437,
+            "steps": 36,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 438,
+            "steps": 32,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 439,
+            "steps": 38,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 0.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 440,
+            "steps": 32,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 441,
+            "steps": 32,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 442,
+            "steps": 81,
+            "pushes": 12,
+            "climbs": 2,
+            "reward": -11.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 443,
+            "steps": 51,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -23.79,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 444,
+            "steps": 40,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": -0.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 445,
+            "steps": 30,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 446,
+            "steps": 56,
+            "pushes": 12,
+            "climbs": 3,
+            "reward": -3.07,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 447,
+            "steps": 32,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 448,
+            "steps": 32,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 449,
+            "steps": 40,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": -0.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 450,
+            "steps": 39,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 0.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 451,
+            "steps": 31,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 452,
+            "steps": 38,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -19.69,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 453,
+            "steps": 35,
+            "pushes": 5,
+            "climbs": 0,
+            "reward": 1.02,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 454,
+            "steps": 34,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 455,
+            "steps": 31,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 456,
+            "steps": 37,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 0.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 457,
+            "steps": 38,
+            "pushes": 9,
+            "climbs": 2,
+            "reward": 2.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 458,
+            "steps": 32,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 459,
+            "steps": 32,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 2.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 460,
+            "steps": 38,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": 1.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 461,
+            "steps": 30,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 3.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 462,
+            "steps": 34,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 463,
+            "steps": 38,
+            "pushes": 7,
+            "climbs": 0,
+            "reward": -0.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 464,
+            "steps": 29,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -16.39,
+            "success": false,
+            "efficient": false
+        },
+        {
+            "episode": 465,
+            "steps": 32,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 466,
+            "steps": 32,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 467,
+            "steps": 34,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 1.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 468,
+            "steps": 42,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": -0.32,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 469,
+            "steps": 35,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 1.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 470,
+            "steps": 44,
+            "pushes": 10,
+            "climbs": 1,
+            "reward": -0.67,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 471,
+            "steps": 34,
+            "pushes": 10,
+            "climbs": 2,
+            "reward": 3.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 472,
+            "steps": 36,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 1.08,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 473,
+            "steps": 31,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 474,
+            "steps": 32,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 2.53,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 475,
+            "steps": 40,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": -0.27,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 476,
+            "steps": 33,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 477,
+            "steps": 31,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 478,
+            "steps": 35,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 479,
+            "steps": 31,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 480,
+            "steps": 40,
+            "pushes": 2,
+            "climbs": 0,
+            "reward": -0.47,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 481,
+            "steps": 37,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 1.23,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 482,
+            "steps": 35,
+            "pushes": 4,
+            "climbs": 1,
+            "reward": 1.42,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 483,
+            "steps": 45,
+            "pushes": 11,
+            "climbs": 1,
+            "reward": -1.97,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 484,
+            "steps": 32,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 485,
+            "steps": 40,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 0.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 486,
+            "steps": 32,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 487,
+            "steps": 36,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 488,
+            "steps": 32,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 489,
+            "steps": 31,
+            "pushes": 6,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 490,
+            "steps": 33,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 491,
+            "steps": 31,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 3.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 492,
+            "steps": 32,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.63,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 493,
+            "steps": 34,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 2.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 494,
+            "steps": 38,
+            "pushes": 13,
+            "climbs": 3,
+            "reward": 3.13,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 495,
+            "steps": 33,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 2.03,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 496,
+            "steps": 35,
+            "pushes": 8,
+            "climbs": 1,
+            "reward": 1.83,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 497,
+            "steps": 34,
+            "pushes": 7,
+            "climbs": 1,
+            "reward": 1.93,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 498,
+            "steps": 33,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 2.43,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 499,
+            "steps": 36,
+            "pushes": 9,
+            "climbs": 1,
+            "reward": 1.33,
+            "success": true,
+            "efficient": false
+        },
+        {
+            "episode": 500,
+            "steps": 37,
+            "pushes": 5,
+            "climbs": 1,
+            "reward": 0.83,
+            "success": true,
+            "efficient": false
+        }
+    ]
+}

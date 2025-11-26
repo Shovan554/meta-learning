@@ -1,0 +1,182 @@
+[
+    {
+        "map": "meta_maze_1.txt",
+        "episodes": 500,
+        "best_reward": 6.34,
+        "time": 0.18
+    },
+    {
+        "map": "meta_maze_10.txt",
+        "episodes": 500,
+        "best_reward": 5.94,
+        "time": 0.12
+    },
+    {
+        "map": "meta_maze_11.txt",
+        "episodes": 500,
+        "best_reward": 6.14,
+        "time": 0.12
+    },
+    {
+        "map": "meta_maze_12.txt",
+        "episodes": 500,
+        "best_reward": 4.54,
+        "time": 0.1
+    },
+    {
+        "map": "meta_maze_13.txt",
+        "episodes": 500,
+        "best_reward": 4.94,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_14.txt",
+        "episodes": 500,
+        "best_reward": 10.14,
+        "time": 0.15
+    },
+    {
+        "map": "meta_maze_15.txt",
+        "episodes": 500,
+        "best_reward": 6.14,
+        "time": 0.13
+    },
+    {
+        "map": "meta_maze_16.txt",
+        "episodes": 500,
+        "best_reward": 9.99,
+        "time": 0.12
+    },
+    {
+        "map": "meta_maze_17.txt",
+        "episodes": 500,
+        "best_reward": 8.54,
+        "time": 0.12
+    },
+    {
+        "map": "meta_maze_18.txt",
+        "episodes": 500,
+        "best_reward": 7.54,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_19.txt",
+        "episodes": 500,
+        "best_reward": 8.09,
+        "time": 0.12
+    },
+    {
+        "map": "meta_maze_2.txt",
+        "episodes": 500,
+        "best_reward": 7.79,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_20.txt",
+        "episodes": 500,
+        "best_reward": 6.54,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_21.txt",
+        "episodes": 500,
+        "best_reward": 6.94,
+        "time": 0.1
+    },
+    {
+        "map": "meta_maze_22.txt",
+        "episodes": 500,
+        "best_reward": 3.14,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_23.txt",
+        "episodes": 500,
+        "best_reward": 7.54,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_24.txt",
+        "episodes": 500,
+        "best_reward": 5.54,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_25.txt",
+        "episodes": 500,
+        "best_reward": 9.54,
+        "time": 0.12
+    },
+    {
+        "map": "meta_maze_26.txt",
+        "episodes": 500,
+        "best_reward": 3.29,
+        "time": 0.12
+    },
+    {
+        "map": "meta_maze_27.txt",
+        "episodes": 500,
+        "best_reward": 9.19,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_28.txt",
+        "episodes": 500,
+        "best_reward": 8.54,
+        "time": 0.13
+    },
+    {
+        "map": "meta_maze_29.txt",
+        "episodes": 500,
+        "best_reward": 7.84,
+        "time": 0.14
+    },
+    {
+        "map": "meta_maze_3.txt",
+        "episodes": 500,
+        "best_reward": 5.94,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_30.txt",
+        "episodes": 500,
+        "best_reward": 4.34,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_4.txt",
+        "episodes": 500,
+        "best_reward": 10.54,
+        "time": 0.11
+    },
+    {
+        "map": "meta_maze_5.txt",
+        "episodes": 500,
+        "best_reward": 8.54,
+        "time": 0.15
+    },
+    {
+        "map": "meta_maze_6.txt",
+        "episodes": 500,
+        "best_reward": 9.54,
+        "time": 0.12
+    },
+    {
+        "map": "meta_maze_7.txt",
+        "episodes": 500,
+        "best_reward": 8.84,
+        "time": 0.15
+    },
+    {
+        "map": "meta_maze_8.txt",
+        "episodes": 500,
+        "best_reward": 9.94,
+        "time": 0.13
+    },
+    {
+        "map": "meta_maze_9.txt",
+        "episodes": 500,
+        "best_reward": 8.54,
+        "time": 0.11
+    }
+]
